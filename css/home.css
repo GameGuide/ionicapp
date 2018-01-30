@@ -1,0 +1,17 @@
+.tabs-news > .tabs, .tabs.tabs-positive{
+	background-color: #424242;
+	color: #fff;
+}
+.tab-title.ng-binding{
+	font-size:85%;
+	display:flex;
+	justify-content:center;
+	align-items:center
+}
+.tab-item.tab-item-active{
+	border-bottom:#fff solid 3px!important;
+}
+.home-content{
+	background: #302c2c;
+	padding-top:5px;
+}
